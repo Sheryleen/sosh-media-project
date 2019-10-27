@@ -1,0 +1,29 @@
+.center{
+    text-align: center;
+    color:black;
+    font-style: italic;
+    font-size: extralarge;
+    font-display: bold;
+
+    
+}
+.friend-container{
+    background-color: lightgray;
+    
+}
+.empty-col{
+    border: 3px solid black;
+    height: 100%;
+}
+.list-of-messages{
+    display: none
+}
+.display-form{
+    display: none
+}
+.reply-form{
+    display: none
+}
+.hide-list{
+    display: none
+}
